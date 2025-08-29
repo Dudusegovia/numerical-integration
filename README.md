@@ -23,3 +23,4 @@ A ideia central é aproximar a curva da função f(x)f(x)f(x) por segmentos de r
 •	Bom quando f(x) é quase linear no intervalo (erro pequeno).
 
 •	Pode ser estendido facilmente para muitas subdivisões.
+<img width="989" height="490" alt="56785555-759a-48b8-8dc6-832c1ce3c3a1" src="https://github.com/user-attachments/assets/b8f83a07-091f-4824-99a2-81cf4cf3b8fc" />
