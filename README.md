@@ -7,13 +7,19 @@ A ideia central é aproximar a curva da função f(x)f(x)f(x) por segmentos de r
 
 # Aplicações
 •	Quando a integral exata é complicada ou impossível de calcular.
+
 •	Em problemas de engenharia e física, para cálculo de áreas, trabalho, energia.
+
 •	Em estatística e probabilidade, para distribuições acumuladas.
+
 •	Em situações onde só se tem valores da função em pontos discretos (tabelas experimentais, sensores etc.).
 
 
 # Vantagens
 •	Extremamente simples de entender e implementar.
+
 •	Funciona para qualquer função contínua em [a,b][a,b][a,b].
+
 •	Bom quando f(x) é quase linear no intervalo (erro pequeno).
+
 •	Pode ser estendido facilmente para muitas subdivisões.
